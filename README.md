@@ -1,3 +1,9 @@
+## Development
+
+### Icons
+
+- [Lucide](https://lucide.dev/icons/)
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
