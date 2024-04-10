@@ -1,11 +1,7 @@
-const Form = () => {
-  return <div>Form</div>;
-};
-
 const App = () => {
   return (
-    <div>
-      <Form></Form>
+    <div class="h-screen flex flex-col justify-center items-center text-xl bg-zinc-100">
+      solidjs + tailwindcss
     </div>
   );
 };
